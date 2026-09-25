@@ -23,6 +23,6 @@ Nome: Mario Henrique Botelho Farias
 
 E-Mail: mario.farias1@gmail.com
 
-GitHub:
+GitHub: https://github.com/mfarias76/MVP-Engenharia-de-Dados-MFarias
 
 Sprint: Engenharia de Dados (40530010057_20260_01) 
